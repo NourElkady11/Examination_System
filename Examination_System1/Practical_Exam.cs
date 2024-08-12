@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examination_System1
 {
-    internal class Practical_Exam : Quetsions, I_MCQ
+    internal class Practical_Exam : Quetsions
     {
         public List<MCQ_Questions> mcq_Quetions = new List<MCQ_Questions>();
         public int Time { get; set; }

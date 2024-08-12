@@ -14,5 +14,6 @@ namespace Examination_System1
         public int Right_Anwser { set; get; }
         public int User_Anwser { set; get; }
 
+
     }
 }
